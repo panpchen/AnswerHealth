@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "loading",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5,
+  "sample": 6,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "太阳": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.5,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "云朵1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                75.517,
+                334.172,
+                0
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                64.417,
+                343.885,
+                0
+              ]
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": [
+                43.604,
+                331.397,
+                0
+              ]
+            },
+            {
+              "frame": 2.5,
+              "value": [
+                75.517,
+                334.172,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "To  prevent  drowning": {
+        "props": {
+          "skewX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 13.600000000000001
+            },
+            {
+              "frame": 2.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
