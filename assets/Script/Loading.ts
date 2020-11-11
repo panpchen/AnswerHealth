@@ -18,7 +18,7 @@ export default class Loading extends cc.Component {
         manager.enabled = true;
         this.preloadGameScene();
         // manager.enabledDebugDraw = true; 
-        // cc.director.getPhysicsManager().enabled = true;
+        // cc.director.getPhysicsManager().enabled = true; 
     }
 
     preloadGameScene() {
