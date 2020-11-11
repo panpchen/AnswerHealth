@@ -17,8 +17,8 @@ export default class Loading extends cc.Component {
         const manager = cc.director.getCollisionManager();
         manager.enabled = true;
         this.preloadGameScene();
-        // manager.enabledDebugDraw = true;  
-        // cc.director.getPhysicsManager().enabled = true22222;  
+        // manager.enabledDebugDraw = true; 
+        // cc.director.getPhysicsManager().enabled = true; 
     }
 
     preloadGameScene() {
